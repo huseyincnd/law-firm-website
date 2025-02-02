@@ -163,7 +163,7 @@ const Navbar = () => {
               </Link>
             ))}
             <Link
-              href="/contact"
+              href="/randevu"
               className="block px-4 py-2 mt-4 bg-gradient-to-r from-blue-400 to-blue-500 text-white rounded-lg hover:from-blue-500 hover:to-blue-600 transition-all duration-300 text-center"
               onClick={() => setIsMenuOpen(false)}
             >

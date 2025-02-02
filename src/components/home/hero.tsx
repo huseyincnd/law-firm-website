@@ -38,7 +38,7 @@ const Hero = () => {
             
             <div className="mt-10 flex flex-col sm:flex-row items-center justify-center lg:justify-start space-y-4 sm:space-y-0 sm:space-x-6">
               <Link 
-                href="/contact"
+                href="/randevu"
                 className="w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-xl font-semibold hover:from-blue-700 hover:to-blue-800 transition-all duration-300 transform hover:-translate-y-0.5 hover:shadow-lg text-center"
               >
                 Ücretsiz Danışma
